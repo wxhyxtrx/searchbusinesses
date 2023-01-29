@@ -1,0 +1,17 @@
+.borderInput{
+    border: 1px solid #eceff1;
+    outline: 0px;
+}
+
+.inputOutline:focus {
+    outline:0px !important;
+    box-shadow: none !important;
+}
+
+.cardBorder{
+    border: 2px 0px solid red;
+}
+.bg-gradient-dark{
+    background: rgb(0, 0, 0);
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.8211659663865546) 20%, rgba(0, 212, 255, 0) 100%);
+}
